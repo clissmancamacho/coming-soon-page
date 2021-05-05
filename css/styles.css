@@ -1053,7 +1053,7 @@ footer {
 
 @media (max-width: 768px) {
   .banner-container {
-    height: 700px;
+    height: 100vh;
   }
   #home .heading h2 {
     font-size: 20px !important;
@@ -1100,7 +1100,7 @@ footer {
     text-align: center;
   }
   .banner-container {
-    height: 500px;
+    height: 100vh;
   }
   .countdown {
     text-align: center;
